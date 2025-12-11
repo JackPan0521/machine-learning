@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data files (如果資料檔案很大，可以考慮不上傳)
+# wtbdata_245days.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Matplotlib
+*.png
+*.jpg
+*.pdf
